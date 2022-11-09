@@ -14,16 +14,21 @@ Algorithms is used to apply operations on data inside the data structure
 --A data type tells the compiler or interpreter how the programmer 
 intends to use the data.
 
-A data type is also called data structure*********
+A data structure has its type,,,,known as data type*********
 
 
 --When we store data we attach the data type on compile time or
 runtime(attached by the interpreter itself)
 
 structure ----a pattern
-model----logical frame
+pattern-----the way in which something(object) develops, or is done
+model----logical frame-------developed based on their pattern
 schema----structure
 documentation-----a solution template
+prototype------the first model(object) or design of something(object) from which other forms(object) will be developed
+e.g.  const arr = new Array()
+Array is prototype of arr.
+
 
 
 OOP is a guideline for the programmer to program in an efficient and more 
